@@ -10,6 +10,14 @@
 	 left: 241px;
 	
 	 position: absolute;
+	 border-top-style: dashed;
+	 border-top-width: 95px;
+	 border-left-style: dashed;
+	 border-left-width: 95px;
+	 border-right-style: dashed;
+	 border-right-width: 95px;
+	 border-bottom-style: dashed;
+	 border-bottom-width: 95px;
 	 
 }
 
